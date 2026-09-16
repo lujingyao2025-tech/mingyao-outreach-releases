@@ -8,7 +8,7 @@
 ## 下载
 
 - Windows x64 安装包：
-  [MingYaoOutreach-1.2.9-win-x64.exe](https://github.com/lujingyao2025-tech/mingyao-outreach-releases/releases/download/v1.2.9/MingYaoOutreach-1.2.9-win-x64.exe)
+  [MingYaoOutreach-1.2.12-win-x64.exe](https://github.com/lujingyao2025-tech/mingyao-outreach-releases/releases/download/v1.2.12/MingYaoOutreach-1.2.12-win-x64.exe)
 - 或前往 [Releases](https://github.com/lujingyao2025-tech/mingyao-outreach-releases/releases) 下载最新版本。
 
 ---
